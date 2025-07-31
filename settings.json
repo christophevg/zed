@@ -28,5 +28,6 @@
     "dock": "right",
     "font_size": 12,
     "line_height": "standard"
-  }
+  },
+  "format_on_save": "off"
 }
