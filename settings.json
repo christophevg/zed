@@ -34,5 +34,8 @@
     "inline_blame": {
       "enabled": false
     }
+  },
+  "preview_tabs": {
+    "enabled": false
   }
 }
