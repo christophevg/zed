@@ -35,6 +35,7 @@
       "enabled": false
     }
   },
+  "tab_size": 2,
   "preview_tabs": {
     "enabled": false
   }
