@@ -7,5 +7,12 @@
     "args": ["$ZED_FILE"],      // TODO provide selected project panel file
     "hide": "always",           // discard terminal
     "reveal": "never"           // don't switch focus, space again to return
+  },
+  {
+    "label" : "Make",
+    "command" : "make -C",
+    "args": [ "$ZED_DIRNAME" ],
+    "hide" : "on_success",
+    "reveal": "never"
   }
 ]

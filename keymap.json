@@ -6,5 +6,11 @@
     "bindings": {
       "space": ["task::Spawn", { "task_name": "Quickview file" }]
     }
+  },
+  {
+    "context" : "Editor",
+    "bindings" : {
+      "cmd-b" : ["task::Spawn", { "task_name": "Make"} ]
+    }
   }
 ]
