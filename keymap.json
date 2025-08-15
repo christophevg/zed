@@ -12,5 +12,11 @@
     "bindings" : {
       "cmd-b" : ["task::Spawn", { "task_name": "Make"} ]
     }
+  },
+  {
+    "context" : "Editor",
+    "bindings" : {
+      "cmd-shift-b" : ["task::Spawn", { "task_name": "Make here"} ]
+    }
   }
 ]

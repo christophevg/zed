@@ -9,10 +9,17 @@
     "reveal": "never"           // don't switch focus, space again to return
   },
   {
-    "label" : "Make",
+    "label" : "Make here",
     "command" : "make -C",
     "args": [ "$ZED_DIRNAME" ],
     "hide" : "on_success",
+    "reveal": "never"
+  },
+  {
+    "label" : "Make",
+    "command" : "make",
+    "args": [],
+    "hide" : "never",
     "reveal": "never"
   }
 ]
