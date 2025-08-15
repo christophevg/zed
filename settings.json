@@ -38,5 +38,13 @@
   "tab_size": 2,
   "preview_tabs": {
     "enabled": false
+  },
+  "languages": {
+    "XML" : {
+      "soft_wrap": "none"
+    },
+    "CSV" : {
+      "soft_wrap": "none"
+    }
   }
 }
