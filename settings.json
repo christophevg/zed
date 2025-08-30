@@ -46,5 +46,10 @@
     "CSV" : {
       "soft_wrap": "none"
     }
-  }
+  },
+  "file_scan_exclusions": [
+    "**/.git",
+    "**/.DS_Store",
+    "**/__pycache__"
+  ]
 }
