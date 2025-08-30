@@ -51,5 +51,6 @@
     "**/.git",
     "**/.DS_Store",
     "**/__pycache__"
-  ]
+  ],
+  "show_completions_on_input": false
 }
